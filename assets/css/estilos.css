@@ -1,0 +1,29 @@
+.main-section {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+
+.card {
+    height: 100%;
+}
+
+.card img {
+    height: 250px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.navbar-brand {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+}
